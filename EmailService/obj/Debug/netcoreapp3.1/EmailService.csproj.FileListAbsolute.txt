@@ -1,0 +1,5 @@
+C:\Users\kerim\source\repos\MailComfiramitonApi\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.AssemblyReference.cache
+C:\Users\kerim\source\repos\MailComfiramitonApi\EmailService\obj\Debug\netcoreapp3.1\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerim\source\repos\MailComfiramitonApi\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\MailComfiramitonApi\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\kerim\source\repos\MailComfiramitonApi\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
