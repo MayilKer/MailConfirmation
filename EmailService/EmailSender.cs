@@ -6,7 +6,7 @@ using System.Text;
 
 namespace EmailService
 {
-    class EmailSender : IEmailSender
+    public class EmailSender : IEmailSender
     {
         private readonly EmailConfiguration _emailConfig;
         public EmailSender(EmailConfiguration emailConfig)
@@ -21,10 +21,10 @@ namespace EmailService
         private MimeMessage CreateEmailMessage(Message message)
         {
             var emailMessage = new MimeMessage();
-            emailMessage.From.Add(new MailboxAddress("email", _emailConfig.From));
+            emailMessage.From.Add(new MailboxAddress("Nixon", _emailConfig.From));
             emailMessage.To.AddRange(message.To);
             emailMessage.Subject = message.Subject;
-            emailMessage.Body = new TextPart(MimeKit.Text.TextFormat.Text) { Text = message.Content };
+            emailMessage.Body = new TextPart(MimeKit.Text.TextFormat.Html) { Text = string.Format("<a href=\"{0}\">Verify</a>", message.Content) };
             return emailMessage;
         }
         private void Send(MimeMessage mailMessage)

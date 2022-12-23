@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EmailService
 {
-    interface IEmailSender
+    public interface IEmailSender
     {
         void SendEmail(Message message);
     }

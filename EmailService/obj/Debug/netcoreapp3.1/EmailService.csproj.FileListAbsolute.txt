@@ -3,3 +3,13 @@ C:\Users\kerim\source\repos\MailComfiramitonApi\EmailService\obj\Debug\netcoreap
 C:\Users\kerim\source\repos\MailComfiramitonApi\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
 C:\Users\kerim\source\repos\MailComfiramitonApi\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
 C:\Users\kerim\source\repos\MailComfiramitonApi\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MailConfirmation\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\Users\User\Desktop\MailConfirmation\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\User\Desktop\MailConfirmation\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\User\Desktop\MailConfirmation\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MailConfirmation\EmailService\obj\Debug\netcoreapp3.1\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MailConfirmation\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MailConfirmation\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\User\Desktop\MailConfirmation\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MailConfirmation\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\User\Desktop\MailConfirmation\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
